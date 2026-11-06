@@ -38,6 +38,10 @@ There are five ways to get started:
 5. Using the [code-server feature for
    devcontainers](https://github.com/coder/devcontainer-features/blob/main/src/code-server/README.md),
    if you already use devcontainers in your project.
+6. Using one-click buttons to deploy code-server on
+   [RepoCloud](https://repocloud.io/details/code-server/),
+   [Railway](https://railway.com/deploy/code-server), or
+   [Sealos](https://template.sealos.io/deploy?templateName=code-server)
 
 If you use the install script, you can preview what occurs during the install
 process:
